@@ -1,6 +1,6 @@
 # Name Analyzer
 
-This is a small Python project I built to practice working with lists, functions, loops, and basic string operations.
+This is a basic Python project I built to practice working with lists, functions, loops, and basic string operations.
 
 The program takes a list of names and performs simple operations like converting them to uppercase, filtering by length, and counting specific letters.
 
